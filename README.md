@@ -1,3 +1,7 @@
+# Check out all two commits for cubit and bloc implimentation...........
+# -----------------------------------------------------------------------
+# ------------------------------------------------------------------------
+
 # Flutter Bloc & Cubit Tutorial
 
 ### Learn from :point_right: [this post](https://resocoder.com/flutter-bloc-cubit) :point_left:.
